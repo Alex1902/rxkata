@@ -4,6 +4,6 @@ data that comes in.
 In this kata ReactiveX is taken in account. ReactiveX is an API for asynchronous programming with observable streams.
 It is also a cross-platform API. Since Java is applied, more exactly RxJava, the implementation of ReactiveX-API is used.
 
-##What do you need?
+## What do you need?
 * Installed JDK (Java 1.8)
 * IDE (this kata is optimized for IntelliJ IDEA 2016.36)
